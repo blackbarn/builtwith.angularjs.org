@@ -1264,6 +1264,28 @@
         "Phonegap",
         "no jQuery"
       ]
+    },
+    {
+      "name": "Bookworm",
+      "thumb": "bookworm/thumb.png",
+      "desc": "Automatic book downloader for SABnzbd",
+      "url": "https://github.com/blackbarn/Bookworm",
+      "src": "https://github.com/blackbarn/Bookworm",
+      "info": "https://github.com/blackbarn/Bookworm",
+      "submitter": "blackbarn",
+      "submissionDate": "2013-03-13",
+      "tags": [
+        "Demo",
+        "jQuery",
+        "Entertainment",
+        "Automation",
+        "Open Source",
+        "Bootstrap",
+        "Socket.io",
+        "Express",
+        "Jade",
+        "Grunt"
+      ]
     }
   ]
 }
